@@ -1,0 +1,11 @@
+{
+    "hello": "Olá",
+    "goodbye": "Até mais",
+    "pageTitles": {
+        "about": "Quem somos?",
+        "portfolio": "Portfólio",
+        "resume": "Resumo",
+        "blog": "Blog",
+        "github": "GitHub"
+    }
+}
